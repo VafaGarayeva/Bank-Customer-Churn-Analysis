@@ -1,4 +1,5 @@
 🏦 Bank Customer Churn & Retention Analysis 🚀
+
 A comprehensive end-to-end data project focused on predicting customer attrition and enhancing retention strategies. 📈
 
 🎯 Project Overview
